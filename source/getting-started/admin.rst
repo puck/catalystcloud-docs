@@ -1,11 +1,11 @@
-.. _administrating_the_sky-tv_cloud:
+.. _administrating_the_air-new-zealand_cloud:
 
-#################################
-Administrating the Sky TV Cloud
-#################################
+########################################
+Administrating the Air New Zealand Cloud
+########################################
 
 There are a few small points that are important to be aware of before diving
-into the Sky TV cloud.
+into the Air New Zealand cloud.
 
 .. _admin-support:
 
@@ -13,13 +13,11 @@ into the Sky TV cloud.
 Getting support
 ***************
 
-If you experience issues with the Sky TV, please check to
-see if the problem(s) are covered further on in this documentation.
+If you experience issues with the Air New Zealand, please check to
+see if the problem(s) are covered further on in this documentation or the
+`Catalyst Cloud Documentation <https://docs.catalystcloud.nz/>`_.
 If no solution is found you will need to raise a support request with
 the support dropdown in the top right corner of the dashboard.
-
-If you are an organisation with more complex support needs, you may
-want to consider our premium support.
 
 .. image:: ../assets/support_dropdown.png
 
@@ -49,11 +47,9 @@ times for priority one incidents are listed on the `premium support page
 Contacting your account manager
 -------------------------------
 
-Customers that have a premium support contract from
-Catalyst have a technical account manager. You
-should have received the contact details for your
-account manager when you
-applied for premium support.
+Customers that have a premium support contract from Catalyst have a technical
+account manager. You should have received the contact details for your account
+manager when you applied for premium support.
 
 Contacting a solutions architect
 --------------------------------
@@ -66,7 +62,7 @@ solutions architect.
 Training
 ========
 
-Catalyst provides training on how to use the Sky TV cloud in Auckland,
+Catalyst provides training on how to use the Catalyst cloud in Auckland,
 Wellington and Christchurch. Upcoming training sessions can be found at
 https://catalyst.net.nz/training/upcoming-training.
 
@@ -81,10 +77,10 @@ to discuss your needs: https://catalyst.net.nz/training-services
 Projects
 ********
 
-Everything you do on the Sky TV cloud is in a ``project``. Use projects to
-separate the different things you work on. For example, have a project for each
-organisation you work with, or one for each branch of your organisation.
-Something done in one project cannot effect any other projects.
+Everything you do on the Air New Zealand cloud is in a ``project``. Use
+projects to separate the different things you work on. For example, have a
+project for each organisation you work with, or one for each branch of your
+organisation. Something done in one project cannot effect any other projects.
 
 You can change which project you're working in on the dashboard, with the
 dropdown in the top left corner.
@@ -96,10 +92,10 @@ the catalyst cloud documentation.
 .. image:: ../assets/project_dropdown.png
 
 
-The Sky TV cloud provides an isolated and multi-tenanted approach to creating
-workspaces. These workspaces are typically referred to as a ``project`` but for
-historical reasons you may also see them referred to as a ``tenant`` or
-a ``tenancy``.
+The Air New Zealand cloud provides an isolated and multi-tenanted approach to
+creating workspaces. These workspaces are typically referred to as a
+``project`` but for historical reasons you may also see them referred to as a
+``tenant`` or a ``tenancy``.
 
 .. _find-project-id:
 
@@ -107,9 +103,9 @@ a ``tenancy``.
 Finding my project ID
 =====================
 
-Every project on the Sky TV cloud has a ``project name`` (a user friendly
-name) and a ``project id`` (an auto-generated UUID). There are a number of ways
-to find your project ID and name.
+Every project on the Air New Zealand cloud has a ``project name`` (a user
+friendly name) and a ``project id`` (an auto-generated UUID). There are a
+number of ways to find your project ID and name.
 
 Via the Dashboard
 -----------------
@@ -130,4 +126,4 @@ Requests`_ panel.
 .. _Support Requests: https://dashboard.cloud.catalyst.net.nz/management/tickets/
 
 
-:ref:`Previous page <access_to_sky-tv_cloud>` -
+:ref:`Previous page <access_to_air-new-zealand_cloud>` -

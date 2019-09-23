@@ -1,14 +1,14 @@
-.. _alarm-service-on-Sky-tv_cloud:
+.. _alarm-service-on-air-new-zealand_cloud:
 
 
 *************
 Alarm Service
 *************
 
-The alarm service available through the SKY-TV cloud, allows a user to set
-up alarms that are listening on certain objects in the cloud, waiting for
-specific parameters to occur. The alarm then changes their state from either
-'ok' to 'alarm' or 'insufficient data' depending on your parameters.
+The alarm service available through the Air New Zealand cloud, allows a user
+to set up alarms that are listening on certain objects in the cloud, waiting
+for specific parameters to occur. The alarm then changes their state from
+either 'ok' to 'alarm' or 'insufficient data' depending on your parameters.
 
 For example: If you wanted to monitor a compute instance to see if the CPU
 utilization exceeds 70% for more than 10 minutes. You could use an alarm to do

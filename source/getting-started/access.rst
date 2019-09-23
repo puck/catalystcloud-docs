@@ -1,12 +1,12 @@
-.. _access_to_sky-tv_cloud:
+.. _access_to_air-new-zealand_cloud:
 
-############################
-Accessing the Sky TV Cloud
-############################
+###################################
+Accessing the Air New Zealand Cloud
+###################################
 
-In the previous section, we learned about the various services the available to
-Sky TV's cloud. Now we'll show you how to use access these services via the
-Sky TV dashboard.
+In the previous section, we learned about the various services available to
+Air New Zealand's cloud. Now we'll show you how to use access these services
+via the Air New Zealand dashboard.
 
 
 *****************
@@ -14,8 +14,8 @@ The web dashboard
 *****************
 
 The cloud dashboard is a simple way to interact with
-The Sky TV Cloud. It is only available on the internal network and can be
-reached at: https://openstack.skytv.co.nz
+The Air New Zealand Cloud. It is only available on the internal network and can
+be reached at: https://openstack.skytv.co.nz
 
 .. _cloud-dashboard:
 
@@ -23,38 +23,25 @@ reached at: https://openstack.skytv.co.nz
 
 
 The web dashboard is a great tool that provides easy
-access to most of the services that the Sky TV Cloud provides. All of the
-standard services are able to be controlled via the Dashboard. There are some
-more advanced abilities that the cloud environment is capable of; however these
-are discussed elsewhere in the :ref:`Catalyst Cloud
-Documentation
-<https://docs.catalystcloud.nz/>`
+access to most of the services that the Air New Zealand Cloud provides. All of
+the standard services are able to be controlled via the Dashboard. There are
+some more advanced abilities that the cloud environment is capable of; however
+these are discussed elsewhere in the `Catalyst Cloud
+Documentation <https://docs.catalystcloud.nz/>`_
 
-You'll notice on the left hand sidebar you are able to see all of the services
-that are provided. These services have their own
+You will notice on the left hand sidebar you are able to see all of the
+services that are provided. These services have their own
 guides and tutorials that are featured in the catalyst documentation.
 Things such as creating compute instances, partitioning block storage or
 object storage etc. Before going on to use these services,
 we recommend going through the catalyst
-:ref:`first instance tutorial. <https://docs.catalystcloud.nz/first-instance.html>`
-
-Some of the dashboard functionality beyond these services are in the
-buttons along the top bar.
-
-The left-hand button lets you:
-
-* Let you select which project you are working on
-
-The right-hand button lets you:
-
-* Access our support functions
-* Change accounts or access your account settings.
+`first instance tutorial. <https://docs.catalystcloud.nz/first-instance.html>`_
 
 The major appeal of using the dashboard is it requires very little programming
 expertise or knowledge. There is an assumed level of understanding about the
 products you are trying to create or outcomes you seek to achieve, but you can
-use most of the services provided by the Sky TV Cloud simply by navigating
-through the dashboard.
+use most of the services provided by the Air New Zealand Cloud simply by
+navigating through the dashboard.
 
 ***
 FAQ
@@ -63,7 +50,7 @@ FAQ
 I cannot connect to the dashboard
 =================================
 
-The dashboard is only available while connected to the Sky-TV network.
+The dashboard is only available while connected to the Air New Zealand network.
 If you are having issues with connecting to the dashboard, contact your local
 systems administrator.
 

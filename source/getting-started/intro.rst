@@ -1,13 +1,13 @@
-.. _introduction-to-sky-tv-cloud:
+.. _introduction-to-air-new-zealand-cloud:
 
-############################
-The basics of Sky TV cloud
-############################
+###################################
+The basics of Air New Zealand cloud
+###################################
 
 This section of the documentation is for people that are entirely new to cloud
 computing.
 
-The Sky TV cloud is a computing platform built
+The Air New Zealand cloud is a computing platform built
 with the open source project, `OpenStack`_ using Catalyst Cloud
 infrastructure. OpenStack allows users like yourself to provision services.
 Provisioning is similar to renting. You can provision things such as storage
@@ -26,8 +26,8 @@ need, by allowing you to change how much you're using quickly, easily, and
 automatically, through a variety of tools.
 
 
-Now we understand the basic idea behind the Sky TV cloud, let's explore what
-services are provided.
+Now we understand the basic idea behind the Air New Zealand cloud, let's
+explore what services are provided.
 
 
-:ref:`Next page <services_on_the_sky-tv_cloud>`
+:ref:`Next page <services_on_the_air-new-zealand_cloud>`

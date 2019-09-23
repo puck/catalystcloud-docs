@@ -65,7 +65,7 @@ or by explicitly querying the version of a particular datastore type:
   +--------------------------------------+----------+
 
 Next we need to decide on the resource requirements for our database instance.
-We do  this by picking out a flavor from the list available.
+We do this by picking out a flavor from the list available.
 
 .. code-block:: bash
 
@@ -274,7 +274,7 @@ Creating new users
 ==================
 
 While it is possible to create a database user when launching your database
-instance using the ``--users <username>:<password>`` argument it is more than
+instance (using the ``--users <username>:<password>`` argument) it is more than
 likely that further users will need to be added over time.
 
 This can be done using the openstack commandline. Below we can see two example
@@ -353,7 +353,7 @@ To delete a database, you need the following command:
 
 
 
-.. _backups-for-database-on-Sky-tv_cloud:
+.. _backups-for-database-on-air-new-zealand_cloud:
 
 ********************
 Working with backups
@@ -420,7 +420,7 @@ by default, have it run alongside the original. You can also setup a replica
 to perform a variety of different tasks. You could have it run on standby
 and periodically update to keep up to date with the master. Or you could use
 it to run your queries so that the master isn't burdened with the load of large
-operations. There are many different uses for having a replica.
+operations. The tool is uses of a replica are very flexible to suit your needs.
 
 While similar to a backup, a replica is very different.
 The main difference between the two is that, a backup takes what is essentially
@@ -448,8 +448,6 @@ The command to create a replica is:
   | 6bd114d1-7251-42d6-9426-db598c085472 | db-instance-1 | mysql     | 5.7               | ACTIVE | e3feb785-af2e-41f7-899b-6bbc4e0b526e |    4 | test-1 |
   | 8ddd73b2-939c-496d-906a-4eab4000fff0 | db-replica-1  | mysql     | 5.7               | ACTIVE | e3feb785-af2e-41f7-899b-6bbc4e0b526e |    4 | test-1 |
   +--------------------------------------+---------------+-----------+-------------------+--------+--------------------------------------+------+--------+
-
-
 
 ************
 Viewing logs

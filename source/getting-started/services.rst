@@ -1,11 +1,11 @@
-.. _services_on_the_sky-tv_cloud:
+.. _services_on_the_air-new-zealand_cloud:
 
-##############################
-Services on the Sky TV Cloud
-##############################
+#####################################
+Services on the Air New Zealand Cloud
+#####################################
 
-This documentation covers services and protocols specific to Sky TV. For
-information on the other services that this tool provides, we recommend
+This documentation covers services and protocols specific to Air New Zealand.
+For information on the other services that this tool provides, we recommend
 referring to the `Catalyst Cloud documentation`_.
 
 Below we will briefly discuss some of the relevant services:
@@ -29,7 +29,7 @@ was created to make this as easy as possible.
 An image is a "pre-made" operating system installation that can be used
 immediately by an instance, rather than spending time installing the operating
 system, the drivers, miscellaneous files, and configurations that help the
-instance integrate better with the Sky TV Cloud.
+instance integrate better with the Air New Zealand Cloud.
 
 Block storage service
 =====================
@@ -75,6 +75,6 @@ business as it allows you to keep a closer eye on how effective your other
 services are being used, so that you can make decision that will effect your
 costs for each instance. The most common use case of the Alarm service
 is auto-scaling of instances. More information can be found in our
-:ref:`Alarm service section <alarm-service-on-Sky-tv_cloud>`
+:ref:`Alarm service section <alarm-service-on-air-new-zealand_cloud>`
 
 .. _`AODH`: https://docs.openstack.org/aodh/latest/

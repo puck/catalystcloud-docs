@@ -3,7 +3,7 @@ Getting started
 ###############
 
 This section provides you with the minimum information you need to get started
-with the Sky TV cloud. We strongly recommend you read at least this
+with the Air New Zealand cloud. We strongly recommend you read at least this
 section before using the cloud services.
 
 .. toctree::
