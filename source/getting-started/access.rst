@@ -5,7 +5,7 @@ Accessing the Air New Zealand Cloud
 ###################################
 
 In the previous section, we learned about the various services available to
-Air New Zealand's cloud. Now we'll show you how to use access these services
+Air New Zealand's cloud. Now we'll show you how to use these services
 via the Air New Zealand dashboard.
 
 
@@ -13,13 +13,7 @@ via the Air New Zealand dashboard.
 The web dashboard
 *****************
 
-The cloud dashboard is a simple way to interact with
-The Air New Zealand Cloud. It is only available on the internal network and can
-be reached at: https://openstack.skytv.co.nz
-
 .. _cloud-dashboard:
-
-.. image:: .. /assets/dashboard-screenshot.png
 
 
 The web dashboard is a great tool that provides easy

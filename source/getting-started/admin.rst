@@ -7,19 +7,17 @@ Administrating the Air New Zealand Cloud
 There are a few small points that are important to be aware of before diving
 into the Air New Zealand cloud.
 
-.. _admin-support:
-
 ***************
 Getting support
 ***************
+
+.. _admin-support:
 
 If you experience issues with the Air New Zealand, please check to
 see if the problem(s) are covered further on in this documentation or the
 `Catalyst Cloud Documentation <https://docs.catalystcloud.nz/>`_.
 If no solution is found you will need to raise a support request with
 the support dropdown in the top right corner of the dashboard.
-
-.. image:: ../assets/support_dropdown.png
 
 Status page
 ===========
@@ -88,10 +86,6 @@ dropdown in the top left corner.
 Information on how to invite new people to your project can be found on
 the catalyst cloud documentation.
 
-
-.. image:: ../assets/project_dropdown.png
-
-
 The Air New Zealand cloud provides an isolated and multi-tenanted approach to
 creating workspaces. These workspaces are typically referred to as a
 ``project`` but for historical reasons you may also see them referred to as a
@@ -125,5 +119,3 @@ Requests`_ panel.
 
 .. _Support Requests: https://dashboard.cloud.catalyst.net.nz/management/tickets/
 
-
-:ref:`Previous page <access_to_air-new-zealand_cloud>` -
