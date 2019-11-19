@@ -2,7 +2,7 @@
 Object Storage Replication Policy
 #################################
 
-By default anything placed into Object storage will have the default
+By default anything placed into object storage will have the default
 replication policy applied to it. This policy ensures that each object has
 three replicas, where one replica is held at each of the regions.
 
