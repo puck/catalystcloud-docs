@@ -1,3 +1,5 @@
+.. _object-storage-bp:
+
 ##############
 Object storage
 ##############
