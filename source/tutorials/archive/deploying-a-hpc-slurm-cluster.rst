@@ -2,7 +2,6 @@
 Deploying a HPC SLURM cluster
 #############################
 
-
 Introduction
 ============
 

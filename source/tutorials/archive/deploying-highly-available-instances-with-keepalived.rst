@@ -28,7 +28,6 @@ will use the ``openstack`` command line tool to complete the setup
 manually. You will then replicate the manual configuration using a ``heat``
 template to instantiate the same stack automatically.
 
-
 Virtual Router Redundancy Protocol
 ==================================
 `VRRP`_ provides hardware redundancy and automatic failover for routers. It
