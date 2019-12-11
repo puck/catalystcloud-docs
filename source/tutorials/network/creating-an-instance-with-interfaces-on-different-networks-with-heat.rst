@@ -18,7 +18,7 @@ project that already has a private network, and then create a server that has
 interfaces on the existing private network and the newly created one.
 
 You will need to delve into the mysteries of 'cloud-init' a little to achieve
-this. You'll also learn how to perform another useful customisation -
+this. You will also learn how to perform another useful customisation -
 changing who the default user is for an instance.
 
 Heat Template
