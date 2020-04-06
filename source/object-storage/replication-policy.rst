@@ -11,7 +11,7 @@ security to your data in the event of a disaster affecting one of our regions.
 However, there are some scenarios where you may not need your data to be
 replicated across regions or you wish to save money on a cheaper policy. In
 this case you can choose a replication policy that keeps three replicas of your
-data in a single region instead of across all of them.
+data in a single region instead of having them spread across all of them.
 
 What are the storage policies
 =============================
@@ -50,8 +50,8 @@ Firstly, navigate to the 'containers' section under the object storage tab.
 .. image:: assets/container-dash-screenshot-underline.png
 
 Once here, we're going to make a new container by clicking on the "+ container"
-box at the top left of this page. The box will open up a new window that should
-look like this:
+button at the top left of this page. The button will open up a new window that
+should look like this:
 
 .. image:: assets/create-container-screenshot.png
 
@@ -72,8 +72,9 @@ Command line method
 
 .. Note::
  Before continuing please ensure that you have sourced an OpenRC file that
- does not use MFA otherwise the object storage API will not function correctly.
- Additionally, ensure that you have the Swift command line tools installed.
+ does not use MFA; otherwise the object storage API will not function
+ correctly. Additionally, ensure that you have the Swift command line tools
+ installed.
 
 The following is a tutorial that will show you how to create a container that
 has a single region replication policy. Then we will upload a test file to the
@@ -127,7 +128,7 @@ region container. In this example we will use the Wellington region.
 
 To create a container with a non-default policy we have to specify which
 policy we want to use in our curl command. Make sure that you end the storage
-url with "/name of the container" In this example we are creating a container
+url with "/name-of-the-container" In this example we are creating a container
 called "cont-pol"
 
 .. code-block:: bash
