@@ -50,17 +50,19 @@ Firstly, navigate to the 'containers' section under the object storage tab.
 .. image:: assets/container-dash-screenshot-underline.png
 
 Once here, we're going to make a new container by clicking on the "+ container"
-button at the top left of this page. The button will open up a new window that
-should look like this:
+button. The button will open up a new window that should look like this:
 
-.. image:: assets/create-container-screenshot.png
+.. image:: assets/create-container.png
 
 We'll give our container a name and in the storage policy tab below, we select
 the region that we want our replicas to be created in. As you can see, by
 default the multi-region option is selected, but for this example we'll choose
-policy for the Porirua region.
+policy for the Porirua region and then click submit. Something important to
+mention is even though the policy we have chosen uses the Porirua region for
+storing the replicas, you are still able to access this container from any of
+our regions.
 
-.. image:: assets/create-container-screenshot.png
+.. image:: assets/create-container-dropdown.png
 
 After you've created your container, it will function as normal. Unfortunately
 at present there is no way to tell via the dashboard what policy your
@@ -155,7 +157,7 @@ called "cont-pol"
 
 Next we are going to put a file in our new container. You can either create a
 file and upload it or you can upload an existing file from your working
-directory.
+directory; in our case we will use a file called "file1.txt"
 
 .. code-block:: bash
 
