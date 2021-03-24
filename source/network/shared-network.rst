@@ -126,7 +126,7 @@ action.
 **As a user authenticated in the** *catalyst-cloud/training* **project:**
 
 Now that the RBAC policy has been applied we should be able to view the shared
-network in the recieving project, either from the CLI, like this:
+network in the receiving project, either from the CLI, like this:
 
 .. code-block:: console
 
